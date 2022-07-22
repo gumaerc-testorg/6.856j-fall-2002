@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-856j-randomized-algorithms-fall-2002/8c3d3ef7e2575410f3a111fc6783b3a0_ans11.pdf
+file: /courses/6-856j-randomized-algorithms-fall-2002/8c3d3ef7e2575410f3a111fc6783b3a0_ans11.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
