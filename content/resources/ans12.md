@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-856j-randomized-algorithms-fall-2002/23add334a22e2ca329379e444141c1c4_ans12.pdf
+file_size: 89579
 file_type: application/pdf
 learning_resource_types:
 - Assignments
