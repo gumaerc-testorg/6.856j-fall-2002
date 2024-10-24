@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-856j-randomized-algorithms-fall-2002/fe434d8ceeab04715d55edef2ac08b11_hw9.pdf
+file: /ol-ocw-studio-app/courses/6-856j-randomized-algorithms-fall-2002/fe434d8ceeab04715d55edef2ac08b11_hw9.pdf
 file_size: 41055
 file_type: application/pdf
 learning_resource_types:
