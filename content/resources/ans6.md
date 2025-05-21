@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Contains  solutions to problems from the book "Motwani, Rajeez, and
   Prabhakar Raghavan. Randomized Algorithms. Cambridge: Cambridge University Press,1995."'
-file: /ol-ocw-studio-app/courses/6-856j-randomized-algorithms-fall-2002/8182887ccd2fca34f38de297e4cb4929_ans6.pdf
+file: /courses/6-856j-randomized-algorithms-fall-2002/8182887ccd2fca34f38de297e4cb4929_ans6.pdf
 file_size: 575577
 file_type: application/pdf
 learning_resource_types:
